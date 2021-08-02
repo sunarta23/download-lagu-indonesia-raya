@@ -1,0 +1,4 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://download-lagu-indonesia-raya.herokuapp.com/sitemap.xml
